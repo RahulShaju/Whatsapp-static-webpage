@@ -1,0 +1,193 @@
+.header{
+    width: 100%;
+    height: 91px;
+    background-color:#128c7e ;
+    display: flex;
+    padding-left: 150px;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    box-sizing: border-box;
+    position: fixed;
+    
+   
+
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.web{
+    margin-left: 105px;
+    cursor: pointer;
+}
+.header-menu{
+    cursor: pointer;
+    margin-left: 55px;
+}
+.lang{
+    
+    border: none;
+   background-color: #128c7e;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
+.en{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background-color: #128c7e;
+    border: 0;
+    
+}
+.main-body{
+    padding-left: 281px;
+    padding-top: 131px;
+    display: flex;
+    box-sizing: border-box;
+}
+.simple{
+    padding-top: 70px;
+    width: 394px;
+    height: 572px;
+}
+.phone-img{
+    width: 304px;
+    height: 572px;
+    margin-left: 78px;
+}
+.simple-text{
+    font-size: 33px;
+}
+.android{
+    height: 42px;
+    display: flex;
+    cursor: pointer;
+}
+.img-icons{
+    width: 15px ;
+    height:15px;
+}
+.os-txt{
+    margin-left: 16px;
+    margin-top: -1px;
+    color: #128c7e;
+    text-decoration: none;
+}
+.os-txt:hover{
+    text-decoration:underline;
+}
+.third-div{
+    display: flex;
+    
+}
+.third-left{
+    width: 658px;
+    height: 873px;
+    background-color: #e7f0e4;
+    text-align: center;
+}
+.third-right{
+    margin-left: 32px;
+    width: 658px;
+    height: 873px;
+    background-color: #e7f0e4;
+    text-align: center;
+}
+.third-div-link{
+    color: #39b3ed;
+    text-decoration: none;
+}
+.right-below-txt{
+    font-size:18px ; 
+    font-weight:bold;
+    color: #5e5e5e;
+    margin-top: 64px;
+}
+.left-below-txt{
+    margin-left:66px;
+    margin-top: 18px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+
+}
+.left-below-img{
+    margin-top:88px;
+    width: 355px ;
+    height:389px;
+
+}
+.fir-txt{
+    margin-top:80px
+}
+.right-below-last{
+    margin-top: 24px;
+    font-size: 18px;
+}
+.explore-button{
+    margin-top: 56px;
+    height: 55px;
+    text-align: center;
+}
+.exp{
+    cursor: pointer;
+    border-radius: 50px;
+    width: 210px;
+    height: 55px;
+    color: #1c1e21;
+    background-color: white;
+    border: solid 2px #128c7e;
+}
+.footer{
+    padding-left: 150px;
+    display: flex;
+    margin-top: 88px;
+    height: 407px;
+    background-color: #273443;
+    padding-top: 56px;
+    color: white;
+}
+.footer-div{
+    width: 262px;
+    
+}
+.bold-title{
+    font-weight: bold;
+}
+.footer-list{
+    text-decoration: none;
+    color: white;
+}
+.footer-list:hover{
+    text-decoration: underline;
+}
+.bottom{
+    height: 58px;
+    padding-left: 150px;
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color:#1c1e21 ;
+    font-weight: bold;
+}
+
+
+.bottom-end{
+margin-left: 727px;
+}
+.last-link{
+    text-decoration: none;
+    color: white;
+}
+.direct{
+    margin-top: 3px;
+}
+
+
+
+
